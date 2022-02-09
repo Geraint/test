@@ -1,9 +1,0 @@
-name: learn-github-actions
-on: [push]
-jobs:
-  check-php-version:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - run: php --version
-      - run: which composer
