@@ -1,13 +1,5 @@
-# test
+# Test Repository
 
-I'm going to have more than one hunk in this commit.
+![Build and Test](https://github.com/Geraint/Test/actions/workflows/build-and-test.yml/badge.svg)
 
-This is just a test for vimagit.
-
-## Second Hunk
-
-Here's the second hunk.
-
-## Yet another section
-
-Lorem ipsum blah blah blah
+I'm using this repository to test things out.
